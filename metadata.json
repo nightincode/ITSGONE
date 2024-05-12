@@ -2,5 +2,10 @@
     "name": "margaritaville",
     "symbol": "ITSGONE",
     "description": "margaritaville, no dump just pump. And its gone...",
-    "image": "https://raw.githubusercontent.com/nightincode/ITSGONE/main/margaritaville.jpg"
+    "image": "https://raw.githubusercontent.com/nightincode/ITSGONE/main/margaritaville.jpg",
+    "extensions": {
+      "website": "https://www.margaritaville.com",
+      "twitter": "https://twitter.com/margaritaville",
+      "telegram": "http://blog.margaritaville.com/"
+    }
   }  
